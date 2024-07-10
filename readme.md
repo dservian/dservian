@@ -8,7 +8,7 @@
 
 ## About Me 🧑‍💻
 
-I'm a self-taught technology enthusiast with a passion for exploring the frontiers of tech. From AI to offensive security, from programming to electronics, I'm always eager to learn and innovate.
+I'm a self-taught technology enthusiast with a passion for exploring the frontiers of tech. From AI to offensive security, from programming to electronics, from radio to game development, I'm always eager to learn and innovate.
 
 ## Skills & Technologies 🔧
 
@@ -44,22 +44,14 @@ I'm a self-taught technology enthusiast with a passion for exploring the frontie
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/yourprofile)
-[![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)](https://www.openstreetmap.org/user/yourusername)
-
-</div>
-
-## Visitor Count 👀
-
-<div align="center">
-  
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dservian)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/dservian)
+[![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)](https://www.openstreetmap.org/user/daserdel)
 
 </div>
 
 <div align="center">
 
-### "The only way to predict the future is to create it." 🚀
+### "The only way to predict the future is to **build** it." 🚀
 
 </div>
