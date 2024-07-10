@@ -50,10 +50,9 @@ I'm a self-taught technology enthusiast with a passion for exploring the frontie
 
 </div>
 
+<br><br>
+
 <div align="center">
-
-
-
 
 ### "The only way to predict the future is to **build** it." 🚀
 
