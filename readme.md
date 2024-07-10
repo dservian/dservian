@@ -1,15 +1,12 @@
 # Welcome to Dani Servian's Tech Universe 🚀
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=435&lines=AI+Enthusiast;Network+Admin+in+Training;Offensive+Security+Expert;Tech+Polymath" alt="Typing SVG" />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0BF700&background=000000&center=true&vCenter=true&random=false&width=500&lines=%3E+System+Administrator+In+Progress+%F0%9F%93%9A;%3E+Full+Stack+Developer+%F0%9F%93%84;%3E+Offensive+Security+Hobbyist+%F0%9F%90%89;%3E+Self-Learner+To+The+Max+%F0%9F%94%A5;%3E+Blockchain+Enthusiast+%F0%9F%94%91)](https://git.io/typing-svg)
 
 ## About Me 🧑‍💻
 
 I'm a self-taught technology enthusiast with a passion for exploring the frontiers of tech. From AI to offensive security, from programming to electronics, I'm always eager to learn and innovate.
 
-<details>
-<summary>🔧 Skills & Technologies</summary>
+## 🔧 Skills & Technologies
 
 <div align="center">
 
@@ -21,8 +18,6 @@ I'm a self-taught technology enthusiast with a passion for exploring the frontie
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 </div>
-
-</details>
 
 ## Current Focus 🎓
 
