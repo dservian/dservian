@@ -10,7 +10,7 @@
 
 I'm a self-taught technology enthusiast with a passion for exploring the frontiers of tech. From AI to offensive security, from programming to electronics, I'm always eager to learn and innovate.
 
-## 🔧 Skills & Technologies
+## Skills & Technologies 🔧
 
 <div align="center">
 
