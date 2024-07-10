@@ -1,6 +1,10 @@
 # Welcome to Dani Servian's Tech Universe 🚀
 
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0BF700&background=000000&center=true&vCenter=true&random=false&width=500&lines=%3E+System+Administrator+In+Progress+%F0%9F%93%9A;%3E+Full+Stack+Developer+%F0%9F%93%84;%3E+Offensive+Security+Hobbyist+%F0%9F%90%89;%3E+Self-Learner+To+The+Max+%F0%9F%94%A5;%3E+Blockchain+Enthusiast+%F0%9F%94%91)](https://git.io/typing-svg)
+
+</div>
 
 ## About Me 🧑‍💻
 
@@ -44,16 +48,6 @@ I'm a self-taught technology enthusiast with a passion for exploring the frontie
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/yourprofile)
 [![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)](https://www.openstreetmap.org/user/yourusername)
 
-</div>
-
-## GitHub Stats 📊
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## Visitor Count 👀
