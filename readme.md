@@ -1,7 +1,7 @@
 # Welcome to Dani Servian's Tech Universe 🚀
 
 <div align="center">
-  
+<br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0BF700&background=000000&center=true&vCenter=true&random=false&width=500&lines=%3E+System+Administrator+In+Progress+%F0%9F%93%9A;%3E+Full+Stack+Developer+%F0%9F%93%84;%3E+Offensive+Security+Hobbyist+%F0%9F%90%89;%3E+Self-Learner+To+The+Max+%F0%9F%94%A5;%3E+Blockchain+Enthusiast+%F0%9F%94%91)](https://git.io/typing-svg)
 
 </div>
@@ -51,9 +51,9 @@ I'm a self-taught technology enthusiast with a passion for exploring the frontie
 </div>
 
 <br><br>
-
 <div align="center">
 
 ### "The only way to predict the future is to **build** it." 🚀
 
+<br><br>
 </div>
