@@ -1,60 +1,68 @@
-# Welcome to Dani Servian's Tech Universe 🚀
-
-<div align="center">
-<br>
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0BF700&background=000000&center=true&vCenter=true&random=false&width=500&lines=%3E+System+Administrator+In+Progress+%F0%9F%93%9A;%3E+Full+Stack+Developer+%F0%9F%93%84;%3E+Offensive+Security+Hobbyist+%F0%9F%90%89;%3E+Self-Learner+To+The+Max+%F0%9F%94%A5;%3E+Blockchain+Enthusiast+%F0%9F%94%91)](https://git.io/typing-svg)
-
-</div>
-
-## About Me 🧑‍💻
-
-I'm a self-taught technology enthusiast with a passion for exploring the frontiers of tech. From AI to offensive security, from programming to electronics, from radio to game development, I'm always eager to learn and innovate.
-
-## Skills & Technologies 🔧
+# Dani Servian
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![AI](https://img.shields.io/badge/-AI-FF6F61?style=for-the-badge&logo=ai&logoColor=white)
-![OpenStreetMap](https://img.shields.io/badge/-OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0BF700&background=000000&center=true&vCenter=true&random=false&width=500&lines=Sysadmin+working+with+production+systems+%F0%9F%92%BB;Cybersecurity+focused+%F0%9F%94%90;Threat+intel+and+defensive+security+%F0%9F%93%9A;Always+learning+how+systems+break+and+how+to+fix+them)](https://git.io/typing-svg)
 
 </div>
 
-## Current Focus 🎓
+## About me
 
-<div align="center">
+I work as a systems administrator, supporting and maintaining production infrastructure and services.
 
-![AI](https://img.shields.io/badge/-Diving_Deep_into_AI-FF6F61?style=for-the-badge&logo=ai&logoColor=white)
-![Networking](https://img.shields.io/badge/-Computer_Systems_Administration_and_Networks-4D4D4D?style=for-the-badge&logo=cisco&logoColor=white)
+Over time, my focus has gradually shifted toward cybersecurity, especially defensive security, threat analysis, and understanding attacker behavior from a systems perspective.
 
-</div>
+I’m particularly interested in how real-world incidents unfold, how they are detected, and how telemetry, logs, and intelligence can be used to reconstruct and understand malicious activity.
 
-## Achievements 🏆
+## Current focus
 
-<div align="center">
+- Defensive cybersecurity fundamentals
+- Threat intelligence (TTPs, actor tracking, OSINT techniques)
+- Security monitoring and log analysis
+- Strengthening Linux and networking knowledge from a security perspective
 
-![Certification](https://img.shields.io/badge/-Level_3_Certification_in_Computer_Security-FFD700?style=for-the-badge&logo=shield&logoColor=black)
+## Certifications
 
-</div>
+- Hack The Box — CDSA (Cyber Defense Security Analyst)
 
-## Let's Connect 🌐
+## Lab & hands-on work
 
-<div align="center">
+I maintain a small home lab environment focused on security research, monitoring, and systems experimentation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dservian)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/dservian)
-[![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)](https://www.openstreetmap.org/user/daserdel)
+It includes:
 
-</div>
+- A multi-node Proxmox setup for virtualization and infrastructure testing
+- A virtualized firewall with intrusion prevention capabilities for traffic inspection and rule tuning
+- A T-Pot honeypot deployment used to observe real-world attack patterns and telemetry at scale
+- Continuous analysis of logs and inbound activity to understand attacker behavior and techniques
 
-<br><br>
-<div align="center">
+This environment is used to study detection, network traffic patterns, and how different types of malicious activity appear in real telemetry data.
 
-### "The only way to predict the future is to **build** it." 🚀
+## Skills & tools
 
-<br><br>
-</div>
+**Systems**
+- Linux administration
+- Networking fundamentals
+- Production infrastructure support
+
+**Security & analysis**
+- Log analysis and troubleshooting
+- Threat intelligence fundamentals
+- Detection-oriented thinking
+- Incident pattern recognition
+
+**Development / tooling**
+- Python
+- JavaScript / React
+- Automation and scripting
+- Arduino / electronics tinkering
+
+## Links
+
+- LinkedIn: https://www.linkedin.com/in/dservian  
+- Hugging Face: https://huggingface.co/dservian  
+- OpenStreetMap: https://www.openstreetmap.org/user/daserdel  
+
+---
+
+> “Understanding how systems break is the first step toward understanding how to defend them.”
